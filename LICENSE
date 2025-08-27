@@ -1,22 +1,43 @@
-MIT License
+VageBuild – Private Build System
+Copyright (c) 2025 DJsiita Studios (Elijah Siita / DJsiita)
 
-Copyright (c) 2001 - 2021 The SCons Foundation
+Overview
+VageBuild is a proprietary build system developed and maintained by DJsiita Studios (VidllQ Limited).
 
-Permission is hereby granted, free of charge, to any person obtaining
-a copy of this software and associated documentation files (the
-"Software"), to deal in the Software without restriction, including
-without limitation the rights to use, copy, modify, merge, publish,
-distribute, sublicense, and/or sell copies of the Software, and to
-permit persons to whom the Software is furnished to do so, subject to
-the following conditions:
+It is based on the SCons build tool (https://scons.org), which is licensed under the MIT License.
+The unmodified SCons software remains under the MIT License.
+All modifications, enhancements, internal tools, and branding created by DJsiita Studios are proprietary and protected under this license.
 
-The above copyright notice and this permission notice shall be included
-in all copies or substantial portions of the Software.
+SCons License (MIT)
+SCons is open-source under the MIT License:
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY
-KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE
-WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
-NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
-LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
-OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
-WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+- Copyright (c) 2001–2025 The SCons Foundation
+- Permission is granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, subject to including the copyright notice in all copies or substantial portions of the Software.
+- THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+
+VageBuild Proprietary Rights
+All original code, modifications, features, tools, and branding created by DJsiita Studios in this build system are the exclusive intellectual property of DJsiita Studios.
+
+This includes, but is not limited to:
+- Modified build logic
+- Custom output formatting or banners
+- Platform-specific behavior
+- Internal enhancements or integrations
+- Branding, logos, and the "VageBuild" name
+
+You are not permitted to:
+- Use this tool outside DJsiita Studios
+- Redistribute, publish, or upload the build system
+- Modify, decompile, or reverse-engineer the build system
+- Share it with third parties without written permission
+
+This build system is for private internal use only by DJsiita Studios and its development team. Unauthorized use will be considered a breach of copyright law and licensing terms.
+
+Notice
+DJsiita Studios is not responsible for unauthorized leaks or public distribution of this build system.  
+Any unauthorized distribution is a violation of this license and may result in legal action.
+
+Use of this system implies full agreement to these terms.
+
+End of License
+
