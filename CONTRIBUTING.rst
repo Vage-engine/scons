@@ -1,25 +1,73 @@
-Contributing to SCons
-#####################
+![Private / Proprietary](https://img.shields.io/badge/License-Proprietary-red)
 
-Introduction
-============
+# ⚠️ VageBuild – Private Build System
 
-Thanks for taking the time to contribute to SCons!
+**Copyright (c) 2025 DJsiita Studios (Elijah Siita / VidllQ Authority)**  
 
-This is a brief overview of the development process,
-and about the SCons tree (right here, if you're reading this
-in Github, or in a repository clone).
+**NOTICE:** Unauthorized use, modification, distribution, or sharing of this build system, its source code, tools, or branding is strictly prohibited and may result in legal action under Zambian copyright law.
 
-There are lots of places we could use help - please don't
-think we're only interested in contributions to code.
+---
 
-If you're going to contribute, we'd love to get to know you
-a bit and understand what problems you're looking to solve,
-or what you are intending to improve, whether that's documentation,
-code, examples, tutorials, etc. A great way to introduce yourself is to
-to hop onto the `SCons Discord Server <https://discord.gg/bXVpWAy>`_
-to chat.  You don't have to use the Discord app,
-as there is a web interface (does require an account).
+## Overview
+
+VageBuild is a **fully proprietary custom build system** developed and maintained by DJsiita Studios.  
+It is intended **exclusively for internal use** by our development team. This system combines advanced build logic, custom tools, and internal automation tailored for our projects.  
+
+While VageBuild is based on **SCons**, all modifications, enhancements, and additional systems created by DJsiita Studios are **proprietary**.
+
+---
+
+## Features
+
+- **Custom Build Logic** – Fully tailored compilation, linking, and build pipelines.  
+- **Output Formatting & Banners** – Proprietary build outputs, logs, and notifications.  
+- **Platform-Specific Behavior** – Optimized for Windows, Linux, and BSD environments.  
+- **Internal Enhancements** – Automation scripts, caching systems, and integrations for internal projects.  
+- **Branding & Tools** – All names, logos, and system identifiers are **protected intellectual property** of DJsiita Studios.  
+
+---
+
+## Contributing to VageBuild (Internal Use Only)
+
+Thanks for taking the time to contribute to VageBuild! While external contributions are **not allowed**, internal developers can follow these guidelines:
+
+- **Introduction:** Understand the system and its workflow before making changes.  
+- **Resources:** Internal documentation, code references, and private repositories.  
+- **Reporting Bugs:** Log issues internally for review; make sure they are reproducible.  
+- **Development Tree:** Work directly with the local repository; packaging scripts are automated.  
+- **Executing Without Installing:** Edit scripts and run the build system in-place.  
+- **Debugging:** Use the Python debugger (`--debug=pdb`) or internal logging for tracing.  
+- **Testing:** Automated tests should be executed for all code changes. Use `runtest.py` or the internal testing framework.  
+- **Typical Workflow:** Edit → Test → Debug → Commit → Validate → Repeat.  
+
+---
+
+## License
+
+- **SCons MIT License:** The original SCons software is licensed under the MIT License. See `LICENSE-SCONS.txt`.  
+- **VageBuild Proprietary License:** All modifications, enhancements, and new systems created by DJsiita Studios are **proprietary and restricted**. See `LICENSE.txt`.  
+- **Governing Law:** Zambia  
+
+---
+
+## Disclaimer
+
+- VageBuild is intended for **internal studio use only**.  
+- **No individual or third party** is authorized to access, distribute, or modify this system in any form.  
+- Unauthorized use, sharing, or redistribution will be treated as a **copyright infringement**.  
+
+---
+
+## Contact
+
+For internal inquiries regarding licensing, usage, or collaborations, contact:
+
+**DJsiita Studios / Elijah Siita (VidllQ Authority)**  
+Email: legalvidllq@gmail.com  
+Website: [your website here]  
+
+Check out my YouTube channel for videos, tutorials, and updates related to VageBuild:  
+[**Subscribe to VidllQ on YouTube**](https://www.youtube.com/@Mrsiita)
 You can also use the
 `SCons Users Mailing List <https://pairlist4.pair.net/mailman/listinfo/scons-users>`_.
 
