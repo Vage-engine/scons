@@ -13,7 +13,46 @@
 VageBuild is a **fully proprietary custom build system** developed and maintained by DJsiita Studios.  
 It is intended **exclusively for internal use** by our development team. This system combines advanced build logic, custom tools, and internal automation tailored for our projects.  
 
-This build system is **not open-source**. Any use, redistribution, modification, or reverse engineering without explicit written permission from DJsiita Studios is strictly forbidden.
+While VageBuild is built on top of **SCons** (https://scons.org), which is licensed under the MIT License, all modifications, enhancements, and additional systems created by DJsiita Studios are **proprietary**.
+
+---
+
+## Features
+
+- **Custom Build Logic** – Fully tailored compilation, linking, and build pipelines.  
+- **Output Formatting & Banners** – Proprietary build outputs, logs, and notifications.  
+- **Platform-Specific Behavior** – Optimized for Windows, Linux, and BSD environments.  
+- **Internal Enhancements** – Automation scripts, caching systems, and integrations for internal projects.  
+- **Branding & Tools** – All names, logos, and system identifiers are **protected intellectual property** of DJsiita Studios.  
+
+---
+
+## License
+
+- The original **SCons software** is licensed under the MIT License. See `LICENSE-SCONS.txt` for details.  
+- All modifications, enhancements, and new systems created by DJsiita Studios are proprietary. See `LICENSE.txt` for full details.  
+- **Governing law:** Zambia  
+
+---
+
+## Disclaimer
+
+- This system is intended for **internal studio use only**.  
+- **No individual or third party** is authorized to access, distribute, or modify this system in any form.  
+- Unauthorized use, sharing, or redistribution will be treated as a **copyright infringement**.  
+
+---
+
+## Contact
+
+For inquiries regarding licensing, internal use, or collaborations, contact:
+
+**DJsiita Studios / Elijah Siita (VidllQ Authority)**  
+Email: legalvidllq@gmail.com  
+Website: [your website here]  
+
+Check out my YouTube channel for videos, tutorials, and updates related to build systems and VageBuild:  
+[**Subscribe to VidllQ on YouTube**](https://www.youtube.com/@Mrsiita)
 
 ---
 
