@@ -1,24 +1,61 @@
-SCons - a Software Construction Tool
-####################################
+# VageBuild – Private Build System
 
-.. image:: https://img.shields.io/badge/IRC-scons-blue.svg
-   :target: https://web.libera.chat/#scons
-   :alt: IRC
+![IRC](https://img.shields.io/badge/IRC-scons-blue.svg)  
+![Sourceforge Monthly Downloads](https://img.shields.io/sourceforge/dm/scons.svg)  
+![Sourceforge Total Downloads](https://img.shields.io/sourceforge/dt/scons.svg)  
+![Travis CI](https://travis-ci.com/SCons/scons.svg?branch=master)  
+![AppVeyor CI](https://ci.appveyor.com/api/projects/status/github/SCons/scons?svg=true&branch=master)  
+![CodeCov](https://codecov.io/gh/SCons/scons/branch/master/graph/badge.svg)  
+![GitHub Actions](https://github.com/SCons/scons/workflows/SCons%20Build/badge.svg)  
 
-.. image:: https://img.shields.io/sourceforge/dm/scons.svg
-   :target: https://sourceforge.net/projects/scons
-   :alt: Sourceforge Monthly Downloads
+---
 
-.. image:: https://img.shields.io/sourceforge/dt/scons.svg
-   :target: https://sourceforge.net/projects/scons
-   :alt: Sourceforge Total Downloads
+## What is VageBuild?
 
-.. image:: https://travis-ci.com/SCons/scons.svg?branch=master
-   :target: https://travis-ci.com/SCons/scons
-   :alt: Travis CI build status
+VageBuild is a **customized and proprietary version of the SCons build system** developed by DJsiita Studios.  
+It orchestrates the building of software (and other products such as documentation) by determining which components must be built or rebuilt and running the necessary commands.  
 
-.. image:: https://ci.appveyor.com/api/projects/status/github/SCons/scons?svg=true&branch=master
-   :target: https://ci.appveyor.com/project/SCons/scons
+---
+
+## Key Features
+
+- **Python-based configuration** – full programming power to solve build problems.  
+- **Automatic dependency analysis** – built-in for C, C++, FORTRAN, and extendable to other languages.  
+- **Built-in support for multiple languages** – C, C++, D, Java, FORTRAN, Yacc, Lex, Qt, SWIG, TeX, LaTeX.  
+- **Cross-platform** – works on Linux, BSD, Windows, macOS, and OS/2.  
+- **Parallel builds** – run multiple jobs simultaneously regardless of directory structure.  
+- **Cryptographic hash detection** – ensures reliable rebuilds.  
+- **MS Visual Studio support** – generates `.sln`, `.vcproj`, and other project files.  
+- **Caching** – share built files to speed up multiple builds.  
+
+---
+
+## Documentation
+
+Full documentation is available at: [SCons Documentation](http://www.scons.org/documentation.html)  
+
+For VageBuild-specific instructions, see the internal documentation included with the repository.  
+
+---
+
+## Requirements
+
+- Python 3.7 or higher  
+- Optional: additional Python packages for certain features (e.g., Ninja)  
+- Platform-specific compilers as required: `cc`, `c++`, `gfortran`, or Microsoft Visual C++ on Windows  
+
+---
+
+## Installation
+
+VageBuild can be installed using `pip`:
+
+```bash
+# system-level install
+python -m pip install --user vagebuild
+
+# inside a virtual environment
+pip install vagebuild
    :alt: AppVeyor CI build Status
 
 .. image:: https://codecov.io/gh/SCons/scons/branch/master/graph/badge.svg
