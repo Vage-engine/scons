@@ -1,19 +1,60 @@
-# VageBuild – Private Build System
+![Private / Proprietary](https://img.shields.io/badge/License-Proprietary-red)
 
-![IRC](https://img.shields.io/badge/IRC-scons-blue.svg)  
-![Sourceforge Monthly Downloads](https://img.shields.io/sourceforge/dm/scons.svg)  
-![Sourceforge Total Downloads](https://img.shields.io/sourceforge/dt/scons.svg)  
-![Travis CI](https://travis-ci.com/SCons/scons.svg?branch=master)  
-![AppVeyor CI](https://ci.appveyor.com/api/projects/status/github/SCons/scons?svg=true&branch=master)  
-![CodeCov](https://codecov.io/gh/SCons/scons/branch/master/graph/badge.svg)  
-![GitHub Actions](https://github.com/SCons/scons/workflows/SCons%20Build/badge.svg)  
+# ⚠️ VageBuild – Private Build System
+
+**Copyright (c) 2025 DJsiita Studios (Elijah Siita / VidllQ Authority)**  
+
+**NOTICE:** Unauthorized use, modification, distribution, or sharing of this build system, its source code, tools, or branding is strictly prohibited and may result in legal action under Zambian copyright law.
 
 ---
 
-## What is VageBuild?
+## Overview
 
-VageBuild is a **customized and proprietary version of the SCons build system** developed by DJsiita Studios.  
-It orchestrates the building of software (and other products such as documentation) by determining which components must be built or rebuilt and running the necessary commands.  
+VageBuild is a **fully proprietary custom build system** developed and maintained by DJsiita Studios.  
+It is intended **exclusively for internal use** by our development team. This system combines advanced build logic, custom tools, and internal automation tailored for our projects.  
+
+This build system is **not open-source**. Any use, redistribution, modification, or reverse engineering without explicit written permission from DJsiita Studios is strictly forbidden.
+
+---
+
+## Features
+
+- **Custom Build Logic** – Fully tailored compilation, linking, and build pipelines.  
+- **Output Formatting & Banners** – Proprietary build outputs, logs, and notifications.  
+- **Platform-Specific Behavior** – Optimized for Windows, Linux, and BSD environments.  
+- **Internal Enhancements** – Automation scripts, caching systems, and integrations for internal projects.  
+- **Branding & Tools** – All names, logos, and system identifiers are **protected intellectual property** of DJsiita Studios.  
+
+---
+
+## License
+
+This build system is governed by the **VageBuild – Private Build System License, Version 1.0 (2025)**.  
+All modifications, enhancements, and new systems created by DJsiita Studios are **proprietary and restricted**.  
+
+- **Full license details:** See `LICENSE` file  
+- **Governing law:** Zambia  
+
+---
+
+## Disclaimer
+
+- This system is intended for **internal studio use only**.  
+- **No individual or third party** is authorized to access, distribute, or modify this system in any form.  
+- Unauthorized use, sharing, or redistribution will be treated as a **copyright infringement**.  
+
+---
+
+## Contact
+
+For inquiries regarding licensing, internal use, or collaborations, contact:
+
+**DJsiita Studios / Elijah Siita (VidllQ Authority)**  
+Email: legalvidllq@gmail.com  
+Website: [your website here]  
+
+Check out my YouTube channel for videos, tutorials, and updates related to build systems and VageBuild:  
+[**Subscribe to VidllQ on YouTube**](https://www.youtube.com/@Mrsiita)
 
 ---
 
