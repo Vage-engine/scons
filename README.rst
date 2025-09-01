@@ -68,7 +68,7 @@ Check out my YouTube channel for videos, tutorials, and updates related to build
 
 ## License
 
-This build system is governed by the **VageBuild – Private Build System License, Version 1.0 (2025)**.  
+This build system is governed by the FAGE – Private Build System License, Version 1.0 (2025)**.  
 All modifications, enhancements, and new systems created by DJsiita Studios are **proprietary and restricted**.  
 
 - **Full license details:** See `LICENSE` file  
@@ -92,7 +92,7 @@ For inquiries regarding licensing, internal use, or collaborations, contact:
 Email: legalvidllq@gmail.com  
 Website: [your website here]  
 
-Check out my YouTube channel for videos, tutorials, and updates related to build systems and VageBuild:  
+Check out my YouTube channel for videos, tutorials, and updates related to build systems and FAGE:  
 [**Subscribe to VidllQ on YouTube**](https://www.youtube.com/@Mrsiita)
 
 ---
