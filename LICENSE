@@ -1,8 +1,8 @@
-VageBuild – Private Build System
+FAGE – Private Build System
 Copyright (c) 2025 DJsiita Studios (Elijah Siita / DJsiita)
 
 Overview
-VageBuild is a proprietary build system developed and maintained by DJsiita Studios (VidllQ Limited).
+FAGE is a proprietary build system developed and maintained by DJsiita Studios (VidllQ Limited).
 
 It is based on the SCons build tool (https://scons.org), which is licensed under the MIT License.
 The unmodified SCons software remains under the MIT License.
@@ -15,7 +15,7 @@ SCons is open-source under the MIT License:
 - Permission is granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, subject to including the copyright notice in all copies or substantial portions of the Software.
 - THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 
-VageBuild Proprietary Rights
+FAGE Proprietary Rights
 All original code, modifications, features, tools, and branding created by DJsiita Studios in this build system are the exclusive intellectual property of DJsiita Studios.
 
 This includes, but is not limited to:
