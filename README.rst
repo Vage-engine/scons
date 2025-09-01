@@ -1,6 +1,6 @@
 ![Private / Proprietary](https://img.shields.io/badge/License-Proprietary-red)
 
-# ⚠️ VageBuild – Private Build System
+# ⚠️ FAGE – Private Build System
 
 **Copyright (c) 2025 DJsiita Studios (Elijah Siita / VidllQ Authority)**  
 
@@ -10,10 +10,10 @@
 
 ## Overview
 
-VageBuild is a **fully proprietary custom build system** developed and maintained by DJsiita Studios.  
+FAGE is a **fully proprietary custom build system** developed and maintained by DJsiita Studios.  
 It is intended **exclusively for internal use** by our development team. This system combines advanced build logic, custom tools, and internal automation tailored for our projects.  
 
-While VageBuild is built on top of **SCons** (https://scons.org), which is licensed under the MIT License, all modifications, enhancements, and additional systems created by DJsiita Studios are **proprietary**.
+While FAGE is built on top of **SCons** (https://scons.org), which is licensed under the MIT License, all modifications, enhancements, and additional systems created by DJsiita Studios are **proprietary**.
 
 ---
 
@@ -128,7 +128,7 @@ For VageBuild-specific instructions, see the internal documentation included wit
 
 ## Installation
 
-VageBuild can be installed using `pip`:
+FAGE can be installed using `pip`:
 
 ```bash
 # system-level install
